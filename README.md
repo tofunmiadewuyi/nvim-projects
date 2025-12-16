@@ -1,3 +1,5 @@
-# CRUD Admin Panel
+# nvim-projects
 
-An admin panel to create, read, update, and delete user data. Get started [here](https://www.raycast.com/templates/crud-admin-panel).
+A raycast extension that allows you quickly search and open projects in nvim.
+
+![Commands](./assets/screenshot.png)
